@@ -1,0 +1,3 @@
+# Database Design
+
+PostgreSQL + pgvector。
